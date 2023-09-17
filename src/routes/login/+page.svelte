@@ -1,1 +1,1 @@
-<a href="/api/oauth" class="button">Continue with Github</a>
+<a href="/api/oauth/github" class="button">Continue with Github</a>
