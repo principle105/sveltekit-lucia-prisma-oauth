@@ -1,5 +1,5 @@
 {
-    "name": "hack2",
+    "name": "sveltekit-lucia-prisma-oauth",
     "version": "0.0.1",
     "private": true,
     "scripts": {
